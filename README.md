@@ -1,1 +1,1 @@
-# carbon-credits-china
+# carbon-emissions-scheme-china
