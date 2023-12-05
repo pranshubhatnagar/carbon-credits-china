@@ -59,7 +59,3 @@ Sun, Limei, Meiqi Xiang and Qing Shen. “A comparative study on the volatility 
 Wang, Yunqi, et al. “Carbon-oriented operational planning in coupled electricity and emission trading markets.” IEEE Transactions on Power Systems 35 (2020): 3145–3157.
 "Climate pledge puts China on course to peak emissions as early as 2027 | Carbon Brief". Carbon Brief. 2015-07-01. Retrieved 2017-05-03.
 
-
-
-![image](https://github.com/pranshubhatnagar/carbon-emissions-scheme-china/assets/22135802/fd0557ad-e13a-40b3-b536-0795a7c717fa)
-
