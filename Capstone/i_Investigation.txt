@@ -1,0 +1,106 @@
+# Investigation File generated for Scientific Data with Investigation File Authoring Tool version 0.1.0 on 31/10/2018 - This metadata file is CC0
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	UO	GAZ	ERO	OBI	ENVO
+Term Source File	http://data.bioontology.org/ontologies/UO	http://data.bioontology.org/ontologies/GAZ	http://data.bioontology.org/ontologies/ERO	http://data.bioontology.org/ontologies/OBI	http://data.bioontology.org/ontologies/ENVO
+Term Source Version	unknown	$Revision: 1.512 $	2013-08-02	2014-08-18	
+Term Source Description	Units of Measurement Ontology	Gazetteer	Eagle-I Research Resource Ontology	Ontology for Biomedical Investigations	Environment Ontology
+INVESTIGATION
+Investigation Identifier
+Investigation Title
+Investigation Description
+Investigation Submission Date
+Investigation Public Release Date
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name
+Investigation Person Mid Initials
+Investigation Person First Name
+Investigation Person Address
+Investigation Person Phone
+Investigation Person Fax
+Investigation Person Email
+Investigation Person Affiliation
+Investigation Person Roles
+Investigation Person Roles Term Accession Number
+Investigation Person Roles Term Source REF
+STUDY
+Study Identifier	10.1038/sdata.2018.280
+Study Title	A global dataset of CO2 emissions and ancillary data related to emissions for 343 cities
+Study Submission Date	06/07/2018
+Study Public Release Date	15/01/2019
+Study Description	http://www.nature.com/articles/sdata2018280#abstract
+Study File Name	s_Cais349A_study.txt
+Comment[Subject Keywords]	//;//;/;//
+Comment[Manuscript Licence]	CC BY-4.0
+Comment[Experimental Metadata Licence]	CC0
+Comment[Supplementary Information File Name]	
+Comment[Supplementary Information File Type]	x-zip-compressed
+Comment[Supplementary Information File URL]	http://www.nature.com/articles/sdata2018280#supplementary-information
+Comment[Data Repository]	Joint Research Centre (JRC)/Netherlands Environmental Assessment Agency (PBL);PANGAEA
+Comment[Data Record Accession]	doi:10.2904/EDGARv4.2;doi:10.1594/PANGAEA.884141
+Comment[Data Record URI]	https://doi.org/10.2904/EDGARv4.2;https://doi.org/10.1594/PANGAEA.884141
+STUDY DESIGN DESCRIPTORS
+Study Design Type	data integration objective	data validation objective
+Study Design Type Term Accession Number	ERO:0100092	ERO:0100094
+Study Design Type Term Source REF	ERO	ERO
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name	geographic region	city
+Study Factor Type	geographic location	city
+Study Factor Type Term Accession Number	GAZ:00000448	ENVO:00000856
+Study Factor Type Term Source REF	OBI	ENVO
+STUDY ASSAYS
+Study Assay Measurement Type	carbon dioxide emission
+Study Assay Measurement Type Term Accession Number	ENVO:01000770
+Study Assay Measurement Type Term Source REF	ENVO
+Study Assay Technology Type	digital curation
+Study Assay Technology Type Term Accession Number	OBI:0302914
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	""
+Study Assay File Name	a_Cais349A_assay.txt
+STUDY PROTOCOLS
+Study Protocol Name	read from Source Name	assigned	Technical Validation	All steps	Step 1	Step 2	Step 3	Step 4
+Study Protocol Type	information acquisition	information acquisition	information acquisition	data transformation	data transformation	data transformation	data transformation	data transformation
+Study Protocol Type Term Accession Number	OBI:0600013	OBI:0600013	OBI:0600013	OBI:0200000	OBI:0200000	OBI:0200000	OBI:0200000	""
+Study Protocol Type Term Source REF	OBI	OBI	OBI	ERO	ERO	ERO	ERO	""
+Study Protocol Description								
+Study Protocol URI	""	""	""	""	""	""	""	""
+Study Protocol Version								
+Study Protocol Parameters Name	""	""	""	""	""	""	""	""
+Study Protocol Parameters Name Term Accession Number	""	""	""	""	""	""	""	""
+Study Protocol Parameters Name Term Source REF	""	""	""	""	""	""	""	""
+Study Protocol Components Name	""	""	""	""	""	""	""	""
+Study Protocol Components Type	""	""	""	""	""	""	""	""
+Study Protocol Components Type Term Accession Number	""	""	""	""	""	""	""	""
+Study Protocol Components Type Term Source REF	""	""	""	""	""	""	""	""
+STUDY CONTACTS
+Study Person Last Name	Nangini	Peregon	Ciais	Weddige	Vogel	Wang	Bréon	Bachra	Wang	Gurney	Yamagata	Appleby	Telahoun	Canadell	Grübler	Dhakal	Creutzig
+Study Person First Name	Cathy	Anna	Philippe	Ulf	Felix	Jun	François-Marie	Simeran	Yilong	Kevin	Yoshiki	Kyra	Sara	Josep G.	Arnulf	Shobhakar	Felix
+Study Person Mid Initials																	
+Study Person Email	""	""	philippe.ciais@lsce.ipsl.fr	""	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Person Phone																	
+Study Person Fax																	
+Study Person Address																	
+Study Person Affiliation	Laboratoire des Sciences du Climat et de l’Environnement CEA CNRS UVSQ Institut Pierre-Simon Laplace, Gif-sur-Yvette, France	Laboratoire des Sciences du Climat et de l’Environnement CEA CNRS UVSQ Institut Pierre-Simon Laplace, Gif-sur-Yvette, France	Laboratoire des Sciences du Climat et de l’Environnement CEA CNRS UVSQ Institut Pierre-Simon Laplace, Gif-sur-Yvette, France	Mercator Research Institute on Global Commons and Climate Change, Berlin, Germany	Climate Research Division, Environment and Climate Change Canada, Toronto, Canada	Peking University Shenzhen Graduate School, Key Laboratory for Human and Environmental Science and Technology, Shenzhen, China	Laboratoire des Sciences du Climat et de l’Environnement CEA CNRS UVSQ Institut Pierre-Simon Laplace, Gif-sur-Yvette, France	CDP Worldwide, London, England	Laboratoire des Sciences du Climat et de l’Environnement CEA CNRS UVSQ Institut Pierre-Simon Laplace, Gif-sur-Yvette, France	Arizona State University, Arizona, USA	National Institute for Environmental Studies, Tsukuba, Japan	CDP Worldwide, London, England	CDP Worldwide, London, England	Global Carbon Project, CSIRO Oceans and Atmosphere, Canberra, Australia	International Institute for Applied Systems Analysis, Laxenburg, Austria	Department of Energy, Environment and Climate Change, Asian Institute of Technology, Klong Luang, Pathumthani, Thailand	Mercator Research Institute on Global Commons and Climate Change, Berlin, Germany
+Study Person Roles																	
+Study Person Roles Term Accession Number																	
+Study Person Roles Term Source REF																	
+Comment[Study Person ORCID]			0000-0001-8560-4943											0000-0002-8788-3218			0000-0002-5710-3348
+Comment[Funder]																	
+Comment[FundRef ID]																	
+Comment[Funder Term Source REF]																	
+Comment[Grant Identifier]																	
